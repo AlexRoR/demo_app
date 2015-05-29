@@ -26,6 +26,8 @@ gem 'turbolinks'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.0'
 
+gem 'coffee-script-source', '1.8.0'
+
 group :doc do
   gem 'sdoc', '0.3.20', require: false
 end
